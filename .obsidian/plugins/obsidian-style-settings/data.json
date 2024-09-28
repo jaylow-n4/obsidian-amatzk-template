@@ -9,5 +9,10 @@
   "minimal-style@@metadata-heading-off": true,
   "minimal-style@@metadata-add-property-off": true,
   "minimal-style@@inline-title-size": "2em",
-  "minimal-style@@hide-help": true
+  "minimal-style@@hide-help": true,
+  "things-style@@floating-button-off": true,
+  "things-style@@mobile-black-background": true,
+  "things-style@@fancy-code": true,
+  "things-style@@active-line": false,
+  "things-style@@fancy-highlight": true
 }
